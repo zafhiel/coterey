@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: coterey.com
+Token: 9bf9e414756af750baa9254fabed78fcad9c125ac338e0bdac09b95892838cd1
